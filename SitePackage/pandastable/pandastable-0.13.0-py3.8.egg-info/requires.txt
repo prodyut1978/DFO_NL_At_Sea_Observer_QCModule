@@ -1,0 +1,5 @@
+matplotlib>=2.0
+pandas>=1.1
+numexpr>=2.4
+xlrd>=0.9
+future

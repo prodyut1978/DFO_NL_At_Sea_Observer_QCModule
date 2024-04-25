@@ -1,0 +1,8 @@
+﻿VesselClassCode,VesselClassName,Comments
+1,0-24.9 Tonnage In MetricTon,"Based on Gross Registered Tonnage (GRT) 1 Metric Ton = 1,000 kilograms"
+2,25-49.9 Tonnage In MetricTon,"Based on Gross Registered Tonnage (GRT) 1 Metric Ton = 1,000 kilograms"
+3,50-149.9 Tonnage In MetricTon,"Based on Gross Registered Tonnage (GRT) 1 Metric Ton = 1,000 kilograms"
+4,150-499.9 Tonnage In MetricTon,"Based on Gross Registered Tonnage (GRT) 1 Metric Ton = 1,000 kilograms"
+5,500-999.9 Tonnage In MetricTon,"Based on Gross Registered Tonnage (GRT) 1 Metric Ton = 1,000 kilograms"
+6,1000-1999.9 Tonnage In MetricTon,"Based on Gross Registered Tonnage (GRT) 1 Metric Ton = 1,000 kilograms"
+7,2000+ Tonnage In MetricTon,"Based on Gross Registered Tonnage (GRT) 1 Metric Ton = 1,000 kilograms"

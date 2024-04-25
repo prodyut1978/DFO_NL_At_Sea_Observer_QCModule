@@ -1,0 +1,27 @@
+﻿GearTypeCode,GearTypeName,Comments
+1,Otter Trawl  (stern),
+2,Otter Trawl  (side),
+3,Danish Seine,
+4,Cod Trap,
+5,Gillnet  (fixed),
+6,Clam Dredge,
+7,Longline/Linetrawl,
+8,Handline/Jigger,
+9,Scottish Seine,
+10,Purse Seine,
+13,Rake & Tong,
+14,Bar Seine,
+15,Gillnet  (drift),
+16,Midwater Trawl,
+17,Shrimp Trawl,
+18,Pair Trawl ,2 vessels towing the same traw
+20,Longline & Gillnet,
+21,Off-Bottom Chain  ,Otter Trawl; no Rollers
+22,Automated Squid Jigger,
+23,Scallop Dredge,
+24,Off-Bottom Box Trawl  (Japan),
+64,Pots ,Crab; Lobster; Cod; etc.
+65,Capelin Trap,
+66,Double Trawl  ,2 separate trawls towed by 1 vessel
+67,Triple Trawl ,3 separate trawls towed by 1 vessel
+97,Norwegian Seine,
